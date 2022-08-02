@@ -1,4 +1,4 @@
-# Welcome to my personel portfolio.
+# Welcome to my portfolio website.
 
 
-### Link : https://msparihar.github.io/My-Site/
+### Link : https://msparihar.github.io/My-Site/ 
